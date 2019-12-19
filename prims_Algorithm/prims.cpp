@@ -57,7 +57,7 @@ void swapnode(vector<rt_node> &Routing_Table, h_node parent_node, h_node childno
 
 int main()
 {
-    ifstream in("graph.txt");
+    ifstream in("Graph.txt");
     int startingNode;
     in>>startingNode;
     int n,e;
