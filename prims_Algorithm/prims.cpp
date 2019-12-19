@@ -1,8 +1,3 @@
-//CSE674 HW3
-//Due: 11:59PM, Tuesday (10/01)
-//Akshay Dalavai
-//SUID: 237728854
-
 #include<iostream>
 #include<vector>
 #include<fstream>
